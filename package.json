@@ -1,0 +1,28 @@
+{
+  "name": "promise-utils",
+  "version": "1.0.0-prerelease-alpha",
+  "description": "Helper methods for es6-style Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaawerth/es6-promise-utils.git"
+  },
+  "keywords": [
+    "Promise",
+    "utilities",
+    "series",
+    "async-series",
+    "parallel",
+    "async-parallel"
+  ],
+  "author": "Jesse Wertheim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaawerth/es6-promise-utils/issues"
+  },
+  "homepage": "https://github.com/jaawerth/es6-promise-utils#readme",
+  "private": true
+}
